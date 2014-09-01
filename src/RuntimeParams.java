@@ -26,7 +26,7 @@ public class RuntimeParams {
         params.put("MaxStatementsPerConnection", 20);
         params.put("MaxIdleTime", 0);
         params.put("RequestPort", 4850);
-        params.put("MaxThreads", 5);
+        params.put("MaxThreads", 6);
         params.put("SocketBackLog", 20);
         params.put("ResponseTimeOut", 2000); // time in millis
         params.put("ResponseWaitInterval",50);
